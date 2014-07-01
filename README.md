@@ -1,7 +1,13 @@
-# automat [![Build Status](https://secure.travis-ci.org/pluginaweek/state_machine.png "Build Status")](http://travis-ci.org/pluginaweek/state_machine) [![Dependency Status](https://gemnasium.com/pluginaweek/state_machine.png "Dependency Status")](https://gemnasium.com/pluginaweek/state_machine)
+# Automat [![Build Status](https://secure.travis-ci.org/pluginaweek/state_machine.png "Build Status")](http://travis-ci.org/pluginaweek/state_machine) [![Dependency Status](https://gemnasium.com/pluginaweek/state_machine.png "Dependency Status")](https://gemnasium.com/pluginaweek/state_machine)
 
-*automat* is a fork of the [state_machine](https://github.com/pluginaweek/state_machine) gem.
-It adds support for creating state machines for attributes on any Ruby class.
+*Automat* is a continuation of the [state_machine](https://github.com/pluginaweek/state_machine) gem.
+This gem adds support for creating state machines for attributes on any Ruby class.
+
+## Mission
+
+This repo is a continuation of the dead [state_machine](https://github.com/pluginaweek/state_machine) project. Our mission is to keep state_machine alive and moving forward, with maintenance fixes and new features. Pull Requests are welcome!
+
+Any help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ## Resources
 
